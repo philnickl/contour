@@ -1,10 +1,12 @@
 # Contour
 
-## Purpose
-
-Contour is intended to augment the functionality provided by Scouts Terrain.
+A simple Chrome Extenstion intended to augment the functionality provided by Scouts Terrain.
 
 Contour also provides an opportunity to test functionality or fixes before those changes are put to the Terrain development team for incorporation into the core system.
+
+## Requirements
+* Scout Terrain User Account
+* Google Chrome Web Browser
 
 ## Operation
 
